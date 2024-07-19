@@ -783,4 +783,12 @@ video {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
   }
+
+  .lg\:pr-4 {
+    padding-right: 1rem;
+  }
+
+  .lg\:pr-8 {
+    padding-right: 2rem;
+  }
 }
